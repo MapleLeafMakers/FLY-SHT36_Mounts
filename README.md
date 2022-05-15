@@ -1,20 +1,22 @@
 # FLY-SHT36_Mounts
-A collection of extruder mounts for the [Mellow FLY-SHT36](https://github.com/Mellow-3D/Klipper-CAN-Toolboards) CANBUS tool-head board.
+A collection of extruder mounts for the [Mellow FLY-SHT36](https://github.com/Mellow-3D/Klipper-CAN-Toolboards) CANBUS toolhead board.
 
 ![Cad Overview](Images/cad_1.png)
 
 ## What to Print
 
-Print the appropriate mount for your extruder and 2 Spacers.
+### Bondtech LGX Lite
 
-Note: The only difference between the two mounts is the slot for the 
-lower right screw on the Clockwork 2, this allows the mount to be 
-kept perpendicular to the X axis despite the position of the motor.
+ - 1x [FLY-SHT36_LGX-Lite.stl](STL/FLY-SHT36_LGX-Lite.stl)
+ - 2x [Spacer.stl](STL/Spacer.stl) 
+ 
 
+ ### Voron Clockwork 2 
+ 
+ - 1x [FLY-SHT36_CW2.stl](STL/FLY-SHT36_CW2.stl)
+ - 1x [Long_Spacer.stl](STL/Long_Spacer.stl)
+ - 2x [Spacer.stl](STL/Spacer.stl) 
 
- - Bondtech LGX Lite - [FLY-SHT36_LGX-Lite.stl](STL/FLY-SHT36_LGX-Lite.stl)
- - Voron Clockwork 2 - [FLY-SHT36_CW2.stl](STL/FLY-SHT36_CW2.stl)
- - Spacer (x2) - [Spacer.stl](STL/Spacer.stl)
 
 ## Recommended print settings:
 
