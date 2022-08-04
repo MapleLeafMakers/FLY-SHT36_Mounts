@@ -1,6 +1,8 @@
 # FLY-SHT36_Mounts
 A collection of extruder mounts for the [Mellow FLY-SHT36](https://github.com/Mellow-3D/Klipper-CAN-Toolboards) CAN bus toolhead board.
 
+This should also be compatible with the BTT EBB36 v1.1+
+
 ![Cad Overview](Images/cad_1.png)
 
 ## What to Print
